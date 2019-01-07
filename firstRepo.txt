@@ -3,3 +3,5 @@ Hi...
 This is my first file.I am modifing
 
 this has been changed
+
+stash command
